@@ -10,7 +10,7 @@ O principal objetivo deste projeto foi dominar as funcionalidades do CSS Grid pa
 
 Você pode ver o resultado final do projeto online.
 
--   **Clique aqui para acessar:** [Blog de Notícias](https://devchinninto.github.io/news-project)
+-   **Clique aqui para acessar:** [Blog de Notícias](https://devchinninto.github.io/news_project)
 
 ## Funcionalidades e Layout
 
